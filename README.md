@@ -4,7 +4,7 @@ A repo for web-interface of handling bone suppression model.
 1. Install requirements:  
 `pip install -r requirements.txt`
 
-2. Download a model () and put it into a folder `repo_folder/models/fpn_last_model.pth.tar`
+2. Download a model (https://drive.google.com/open?id=123hDS0l_Br5CUO7YgFVI-9agtjAYF3nn) and put it into a folder `repo_folder/models/fpn_last_model.pth.tar`
 
 3. Run the web-interface by `PYTHONPATH=. python src/backend/api.py`
 
