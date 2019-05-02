@@ -3,8 +3,6 @@ import json
 import logging
 from pathlib import Path
 
-import cv2
-import yaml
 from flask import Flask, jsonify, render_template, redirect, url_for, request, flash, send_from_directory
 from werkzeug.utils import secure_filename
 
